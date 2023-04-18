@@ -22,7 +22,7 @@ Thank you for reading! >.<
 
 <a href="https://www.youtube.com/channel/UChNE29WeA7wbW5VC4JVb5Ag">
   <img src="buttons/youtube.svg">
-</a>
+</a> &nbsp;
 <a href="https://patreon.com/axorax/">
   <img src="buttons/patreon.svg">
 </a>
