@@ -25,4 +25,7 @@ Thank you for reading! >.<
 </a> &nbsp;
 <a href="https://patreon.com/axorax/">
   <img src="buttons/patreon.svg">
+</a> &nbsp;
+<a href="https://github.com/Axorax/socials">
+  <img src="buttons/socials.svg">
 </a>
