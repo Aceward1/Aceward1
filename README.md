@@ -10,7 +10,6 @@ I enjoy studying science, programming and playing chess. I always appreciate fee
 
 I am currently a student. I try my best to study and make content alongside.
 My favorite subjects are Physics, Biology, Mathematics, Chemistry and English.
-My dream is to become a doctor and a professional programmer. 😎
 
 Donations can help me make my content better and motivate me!
 Any donations are highly appreciated. :D [Scroll down to donate]
