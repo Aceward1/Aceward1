@@ -1,20 +1,21 @@
-<h2 align="center">Hello World! 👋</h2>
+<h2 align="center">👋 Hello Stalker! 👋</h2>
 
 ```console
 axorax@github:~$ ./welcome.sh
 ```
 
-```
-Hello! I'm Axorax. I like to make websites, YouTube videos, games, music and more!
-I enjoy studying science, programming and playing chess. I always appreciate feedback whether it is good or bad!
+```console
+   ###    ##     ##  #######  ########     ###    ##     ## 
+  ## ##    ##   ##  ##     ## ##     ##   ## ##    ##   ##  
+ ##   ##    ## ##   ##     ## ##     ##  ##   ##    ## ##   
+##     ##    ###    ##     ## ########  ##     ##    ###    
+#########   ## ##   ##     ## ##   ##   #########   ## ##   
+##     ##  ##   ##  ##     ## ##    ##  ##     ##  ##   ##  
+##     ## ##     ##  #######  ##     ## ##     ## ##     ## 
 
-I am currently a student. I try my best to study and make content alongside.
-My favorite subjects are Physics, Biology, Mathematics, Chemistry and English.
-
-Donations can help me make my content better and motivate me!
-Any donations are highly appreciated. :D [Scroll down to donate]
-
-Thank you for reading! >.<
+I curate a carefully orchestrated blend of irreverence and absurdity, crafting
+digital content that embraces the chaotic nuances of internet culture while
+subtly deconstructing the very medium it inhabits. (definitely not chatgpt)
 ```
 
 ##### <h3>Links: </h3>
